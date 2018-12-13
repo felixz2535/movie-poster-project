@@ -1,15 +1,15 @@
-/*.box1 {*/
-/*    background: ;*/
-/*}*/
+.box1 {
+    background: ;
+}
 
-/*.box2 {*/
-/*    background: ;*/
-/*}*/
+.box2 {
+    background: ;
+}
 
-/*.box3 {*/
-/*    background: ;*/
+.box3 {
+    background: ;
     
-/*}*/
+}
 
 h1 {
     text-align: center;
@@ -22,6 +22,10 @@ p {
     font-family: 'Zilla Slab', serif;
 }
 
+
 font-family: 'Zilla Slab', serif;
 
 font-family: 'Sanchez', serif;
+#button {
+    : blue;
+}
