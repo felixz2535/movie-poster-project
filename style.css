@@ -10,4 +10,31 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+body {
+    background:;
+}
+p {
+    font-family: 'Zilla Slab', serif;
+}
+#button {
+    : blue;
+}
+.image { 
+    max-width: 150px;
+    border-radius: 10000px;
+    background: blue;
+    position: center;
+    
+}
+.sponsor {
+    text-align: center;
+}
+p {
+    font-family: 'Zilla Slab', serif;
+}
 
+body {
+    background: url("images/hstat_logo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover
+}
