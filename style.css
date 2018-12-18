@@ -1,16 +1,19 @@
-.box1 {
-    background:;
-}
-.box2 {
-    background: ;
-}
-.box3 {
-    background: ;
-}
+
+/*.box1 {*/
+/*    background: ;*/
+/*}*/
+
+/*.box2 {*/
+/*    background: ;*/
+/*}*/
+
+/*.box3 {*/
+/*    background: ;*/
 h1 {
     text-align: center;
     font-family: 'Sanchez', serif;
 }
+<<<<<<< HEAD
 body {
     background:;
 }
@@ -29,4 +32,13 @@ p {
 }
 .sponsor {
     text-align: center;
+}
+p {
+    font-family: 'Zilla Slab', serif;
+}
+
+body {
+    background: url("images/hstat_logo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover
 }
