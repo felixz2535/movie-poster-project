@@ -1,31 +1,32 @@
 .box1 {
-    background: ;
+    background:;
 }
-
 .box2 {
     background: ;
 }
-
 .box3 {
     background: ;
-    
 }
-
 h1 {
     text-align: center;
     font-family: 'Sanchez', serif;
 }
 body {
-    background: ;
+    background:;
 }
 p {
     font-family: 'Zilla Slab', serif;
 }
-
-
-font-family: 'Zilla Slab', serif;
-
-font-family: 'Sanchez', serif;
 #button {
     : blue;
+}
+.image { 
+    max-width: 150px;
+    border-radius: 10000px;
+    background: blue;
+    position: center;
+    
+}
+.sponsor {
+    text-align: center;
 }
