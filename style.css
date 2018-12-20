@@ -5,19 +5,8 @@ h1 {
 p {
     font-family: 'Zilla Slab', serif;
 }
-body {
-    background: url("images/hstat_logo.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-body {
-    background:;
-}
-p {
-    font-family: 'Zilla Slab', serif;
-}
 #button {
-    : blue;
+    color: blue;
 }
 .image { 
     max-width: 150px;
@@ -29,12 +18,29 @@ p {
 .sponsor {
     text-align: center;
 }
-p {
-    font-family: 'Zilla Slab', serif;
+.box3 {
+    text-align: center;
 }
 
-body {
-    background: url("images/hstat_logo.jpg");
+#sponsorname {
+    text-align: center;
+    font-weight: bold;
+}
+
+body { 
+    background: linear-gradient( 
+    /*top*/
+    rgba(0, 0, 0, 0.5), 
+    /*bottom*/
+    rgba(0, 0, 0, 0.5)), 
+    /*URL*/
+    url(
+    'images/hstat_logo.jpg'
+    );
     background-repeat: no-repeat;
-    background-size: cover
+    background-size: cover;
+    }
+    
+html {
+    height: 100%;
 }
