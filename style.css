@@ -42,7 +42,13 @@ html {
 .sponsor {
     text-align: center;
 }
-
+.trailer {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px red solid;
+    padding:30px;
+}
 #sponsorname {
     text-align: center;
     font-weight: bold;
